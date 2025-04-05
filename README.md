@@ -1,6 +1,11 @@
 # CupsSaneDockerfile
 This is the dockerfile example to build a docker image to share my old EPSON L360 printer and scaner on network. NAS is a great place for it.
 
+I dit not find a goodway to download the drive.
+For EPSON could find from here:
+https://download.ebz.epson.net/dsc/search/01/search/searchModuleFromResult
+
+
 i.e for EPSON L360 
 ```sh
 #Start the docker and mount a dictory for scan and listen the port for cups and sane
